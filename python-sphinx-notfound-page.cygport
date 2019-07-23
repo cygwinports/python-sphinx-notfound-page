@@ -1,0 +1,9 @@
+inherit python-wheel
+
+NAME="python-sphinx-notfound-page"
+VERSION=0.4
+RELEASE=1
+CATEGORY="Python"
+SUMMARY="Sphinx extension to build a 404 page with absolute URLs"
+
+ARCH=noarch
